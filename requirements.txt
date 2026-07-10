@@ -1,0 +1,4 @@
+cryptography
+mysql-connector-python
+
+pyperclip>=1.9.0

@@ -1,0 +1,15 @@
+USER LIST EXPORT
+==================================================
+
+Username: ivon
+Role: Admin
+------------------------------
+
+Username: koto
+Role: User
+------------------------------
+
+Username: mamy
+Role: Admin
+------------------------------
+
